@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>Dev Resources</title>
+	</head>
+	<body>
+		<div class="container">
+			<header>
+				<h1>Dev Resources</h1>
+				<div class="search-container">
+					<input
+						name="search"
+						class="search"
+						type="text"
+						placeholder="Search by tag..."
+						pattern="[a-zA-Z0-9\s]+"
+						minlength="2"
+					/><button name="search_clear">🗑️</button><button name="modal_toggle">🛠️</button>
+				</div>
+				<nav class="cloud"></nav>
+			</header>
+			<main>
+				<div class="results"></div>
+			</main>
+		</div>
+		<div class="modal" role="dialog" aria-modal="true">
+			<div>
+				<h2>Add Resource</h2>
+				<p>Demo only. Changes will not be saved unless you export.</p>
+				<form>
+					<input type="text" name="title" placeholder="Site Title" />
+					<input type="text" name="url" placeholder="https://www.example.com/" />
+					<input type="text" name="tags" placeholder="Tags Separated By Space" pattern="[a-zA-Z0-9\s]+" minlength="2" />
+					<button name="modal_submit">➕ Add</button>
+					<button name="modal_export">📦 Export All</button>
+					<button name="modal_toggle">❌ Close</button>
+				</form>
+			</div>
+		</div>
+	</body>
+</html>

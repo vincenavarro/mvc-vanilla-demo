@@ -1,0 +1,53 @@
+{
+  "name": "resource-search",
+  "version": "1.0.0",
+  "description": "A database of resources searchable by tag.",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production webpack --config webpack/webpack.config.prod.js --colors",
+    "dev": "webpack-dev-server --open --config webpack/webpack.config.dev.js",
+    "format": "prettier --use-tabs --trailing-comma es5 --single-quote --print-width 120  --jsx-single-quote  --write \"{src/**/*.js,src/templates/index.html}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincenavarro/resource-search.git"
+  },
+  "keywords": [
+    "resource",
+    "archive",
+    "search",
+    "webdev"
+  ],
+  "author": "Vince Navarro",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vincenavarro/resource-search/issues"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.7",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-syntax-dynamic-import": "^7.8.3",
+    "@babel/preset-env": "^7.8.7",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "copy-webpack-plugin": "^5.1.1",
+    "cross-env": "^7.0.2",
+    "css-loader": "^3.4.2",
+    "eslint-loader": "^3.0.3",
+    "file-loader": "^5.1.0",
+    "html-webpack-plugin": "^4.0.0-beta.11",
+    "mini-css-extract-plugin": "^0.9.0",
+    "node-sass": "^4.13.1",
+    "prettier": "^2.00.0",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3",
+    "webpack-merge": "^4.2.2"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7",
+    "core-js": "^3.6.4",
+    "eslint": "^6.8.0"
+  }
+}

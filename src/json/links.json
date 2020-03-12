@@ -1,0 +1,1017 @@
+[
+  {
+    "title": "React Job Interview Questions",
+    "url": "https://developerhandbook.com/react/10-react-interview-questions/",
+    "tags": ["job", "interview", "react"]
+  },
+  {
+    "title": "Indie-Friendly Indie Game Publishers",
+    "url": "https://ninichimusic.com/blog/16-indie-friendly-indie-game-publishers",
+    "tags": ["games"]
+  },
+  {
+    "title": "30 Seconds of Interviews",
+    "url": "https://30secondsofinterviews.org/",
+    "tags": ["job", "interview"]
+  },
+  {
+    "title": "Ways To Make Sure Your Website is ADA Compliant",
+    "url": "https://www.inc.com/carol-sankar/7-ways-to-make-sure-your-website-is-ada-compliant.html",
+    "tags": ["a11y", "compliance", "design", "uiux", "uiux"]
+  },
+  {
+    "title": "Accessibility Guidebook for Web Development",
+    "url": "https://www.telerik.com/blogs/web-accessibility-guidebook-for-developers",
+    "tags": ["compliance", "a11y", "html", "css"]
+  },
+  {
+    "title": "Accessibility Guidelines",
+    "url": "http://accessibility.voxmedia.com/",
+    "tags": ["a11y", "compliance", "uiux"]
+  },
+  {
+    "title": "Adobe Color",
+    "url": "https://color.adobe.com/create",
+    "tags": ["adobe", "color", "generator"]
+  },
+  {
+    "title": "After Effects character animation workflow",
+    "url": "https://youtu.be/--oTQCysVTs",
+    "tags": ["adobe", "animation", "graphic", "video"]
+  },
+  {
+    "title": "All The Free Stock",
+    "url": "https://allthefreestock.com/",
+    "tags": ["graphic", "stock", "svg"]
+  },
+  {
+    "title": "Alternatives to Google Maps API",
+    "url": "https://geoawesomeness.com/google-maps-api-alternatives-best-cheap-affordable/",
+    "tags": ["api", "directory"]
+  },
+  {
+    "title": "AngularJS",
+    "url": "https://angularjs.org/",
+    "tags": ["angular", "framework", "javascript"]
+  },
+  {
+    "title": "Animate.CSS",
+    "url": "https://daneden.github.io/animate.css/",
+    "tags": ["generator", "animation", "css", "framework"]
+  },
+  {
+    "title": "An introduction to .map, .filter, .reduce by making a fresh fruit salad (🥗).",
+    "url": "https://codepen.io/andersschmidt/full/MqaBxG",
+    "tags": ["guide", "javascript", "tutorial"]
+  },
+  {
+    "title": "Apache Cordova",
+    "url": "https://cordova.apache.org/",
+    "tags": ["app", "javascript"]
+  },
+  {
+    "title": "Archetype",
+    "url": "https://archetypeapp.com/",
+    "tags": ["design", "fonts", "generator", "inspiration", "uiux", "uiux"]
+  },
+  {
+    "title": "BEM 101 ",
+    "url": "https://css-tricks.com/bem-101/",
+    "tags": ["css", "guide", "style"]
+  },
+  {
+    "title": "Best Practices For Mobile Form Design",
+    "url": "https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/",
+    "tags": ["design", "mobile", "uiux", "uiux", "html", "css"]
+  },
+  {
+    "title": "Blob Maker",
+    "url": "https://www.blobmaker.app/",
+    "tags": ["generator", "graphic", "svg"]
+  },
+  {
+    "title": "BURST",
+    "url": "https://burst.shopify.com/",
+    "tags": ["design", "download", "stock", "graphic"]
+  },
+  {
+    "title": "Can I use...",
+    "url": "https://caniuse.com/",
+    "tags": ["mobile", "compliance", "css", "html", "javascript"]
+  },
+  {
+    "title": "Carbon - Create and share beautiful images of your source code.",
+    "url": "https://carbon.now.sh/",
+    "tags": ["generator", "javascript"]
+  },
+  {
+    "title": "CertBot",
+    "url": "https://certbot.eff.org/lets-encrypt/debianother-nginx",
+    "tags": ["backend", "nginx", "homelab"]
+  },
+  {
+    "title": "C# Fundamentals for Absolute Beginners: (01) Series Introduction",
+    "url": "https://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners/01",
+    "tags": ["cpp", "guide", "tutorial"]
+  },
+  {
+    "title": "ChartJS",
+    "url": "https://www.chartjs.org/",
+    "tags": ["animation", "framework", "generator", "javascript"]
+  },
+  {
+    "title": "Chirashi - Why Japanese Web Design Is (Still) the Way It Is",
+    "url": "https://www.rws.com/insights/rws-moravia-blog/why-japanese-web-design-is-still-the-way-it-is/#",
+    "tags": ["design", "article"]
+  },
+  {
+    "title": "Classic Front End MVC with Vanilla Javascript",
+    "url": "https://medium.com/@patrickackerman/classic-front-end-mvc-with-vanilla-javascript-7eee550bc702",
+    "tags": ["javascript"]
+  },
+  {
+    "title": "CodeKit",
+    "url": "https://codekitapp.com/",
+    "tags": ["backend", "css", "framework", "javascript", "node", "tool"]
+  },
+  {
+    "title": "CodeKit",
+    "url": "https://vscode",
+    "tags": ["css", "html", "javascript", "tool"]
+  },
+  {
+    "title": "CodeNewbie Podcast",
+    "url": "https://www.codenewbie.org/podcast",
+    "tags": ["javascript", "podcast"]
+  },
+  {
+    "title": "CodePen",
+    "url": "https://codepen.io/",
+    "tags": ["hub", "javascript"]
+  },
+  {
+    "title": "Coders of Reddit, how do you politely refuse your friend's 'million dollars app idea'?",
+    "url": "https://www.reddit.com/r/AskReddit/comments/fknqc2/coders_of_reddit_how_do_you_politely_refuse_your/",
+    "tags": ["app", "job", "reddit"]
+  },
+  {
+    "title": "Code Sandbox",
+    "url": "https://codesandbox.io/",
+    "tags": ["sandbox", "hub"]
+  },
+  {
+    "title": "Color Contrast Tester",
+    "url": "https://colorable.jxnblk.com/",
+    "tags": ["a11y", "color", "generator"]
+  },
+  {
+    "title": "Color Hunt - Color Palettes for Designers and Artists",
+    "url": "https://colorhunt.co/",
+    "tags": ["color", "generator"]
+  },
+  {
+    "title": "Color Leap",
+    "url": "https://colorleap.app/home",
+    "tags": ["color", "generator", "guide"]
+  },
+  {
+    "title": "Colormind is a color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art. ",
+    "url": "http://colormind.io/",
+    "tags": ["color", "generator"]
+  },
+  {
+    "title": "Colour Lovers",
+    "url": "https://www.colourlovers.com/palettes/most-loved/all-time/meta",
+    "tags": ["color", "generator"]
+  },
+  {
+    "title": "Controlling color with Sass color functions ",
+    "url": "https://thoughtbot.com/blog/controlling-color-with-sass-color-functions",
+    "tags": ["css", "guide", "sass", "tutorial"]
+  },
+  {
+    "title": "Coolors - The super fast color schemes generator!",
+    "url": "https://coolors.co/",
+    "tags": ["color", "generator"]
+  },
+  {
+    "title": "Coverr",
+    "url": "https://coverr.co/",
+    "tags": ["stock", "video"]
+  },
+  {
+    "title": "Crash Course: UI Design",
+    "url": "https://medium.com/hh-design/crash-course-ui-design-25d13ff60962",
+    "tags": ["app", "design", "uiux", "uiux"]
+  },
+  {
+    "title": "Create Accessible PDFs",
+    "url": "https://www.section508.gov/create/pdfs",
+    "tags": ["a11y", "adobe", "compliance"]
+  },
+  {
+    "title": "CSS Accordion Slider Generator",
+    "url": "https://accordionslider.com/",
+    "tags": ["css", "generator"]
+  },
+  {
+    "title": "CSS Almanac",
+    "url": "https://css-tricks.com/almanac/",
+    "tags": ["css", "directory"]
+  },
+  {
+    "title": "CSS clip-path maker",
+    "url": "https://bennettfeely.com/clippy/",
+    "tags": ["css", "generator"]
+  },
+  {
+    "title": "CSS Gradient Generator",
+    "url": "https://cssgradient.io/",
+    "tags": ["css", "generator"]
+  },
+  {
+    "title": "CSS Grid Generator",
+    "url": "https://cssgrid-generator.netlify.com/",
+    "tags": ["css", "generator", "grid"]
+  },
+  {
+    "title": "CSS media queries are not just max-width",
+    "url": "https://medium.com/mabiloft/css-media-queries-are-not-just-max-width-e543ee5d1a5b",
+    "tags": ["css", "frontend"]
+  },
+  {
+    "title": "CSS Naming Conventions that Will Save You Hours of Debugging",
+    "url": "https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/",
+    "tags": ["css", "guide", "style"]
+  },
+  {
+    "title": "CSS Seperator Generator",
+    "url": "https://wweb.dev/resources/css-separator-generator",
+    "tags": ["css", "generator"]
+  },
+  {
+    "title": "CSS-Tricks",
+    "url": "https://css-tricks.com/",
+    "tags": ["blog", "css", "guide", "inspiration", "tutorial"]
+  },
+  {
+    "title": "Cubic Bezier",
+    "url": "https://cubic-bezier.com/",
+    "tags": ["css", "generator"]
+  },
+  {
+    "title": "Debuggex",
+    "url": "https://www.debuggex.com/",
+    "tags": ["generator", "regex"]
+  },
+  {
+    "title": "Designing Secure, Flexible, and High Performance Game Network Architectures",
+    "url": "https://www.gamasutra.com/view/feature/130587/designing_secure_flexible_and_.php",
+    "tags": ["games", "guide", "tutorial"]
+  },
+  {
+    "title": "Developer Tea",
+    "url": "https://spec.fm/podcasts/developer-tea",
+    "tags": ["javascript", "podcast"]
+  },
+  {
+    "title": "DietPi",
+    "url": "https://dietpi.com/",
+    "tags": ["backend", "homelab", "homelab"]
+  },
+  {
+    "title": "Dribble Jobs",
+    "url": "https://dribbble.com/jobs",
+    "tags": ["job"]
+  },
+  {
+    "title": "Electron",
+    "url": "https://www.electronjs.org/",
+    "tags": ["app", "javascript"]
+  },
+  {
+    "title": "Eloquent JavaScript",
+    "url": "https://eloquentjavascript.net/",
+    "tags": ["books", "download", "javascript"]
+  },
+  {
+    "title": "ES6 Cheatsheet",
+    "url": "https://es6cheatsheet.com/",
+    "tags": ["cheatsheet", "guide", "javascript"]
+  },
+  {
+    "title": "Eva Design System - Deep learning color generator",
+    "url": "https://colors.eva.design/",
+    "tags": ["color", "generator"]
+  },
+  {
+    "title": "Every Layout - Relearn CSS layout",
+    "url": "https://every-layout.dev/",
+    "tags": ["css", "design", "generator", "tutorial", "uiux", "uiux"]
+  },
+  {
+    "title": "ExpressJS",
+    "url": "https://expressjs.com/",
+    "tags": ["framework", "javascript"]
+  },
+  {
+    "title": "Fast-Paced Multiplayer (Part II): Client-Side Prediction and Server Reconciliation",
+    "url": "https://gabrielgambetta.com/client-side-prediction-server-reconciliation.html",
+    "tags": ["games", "guide", "tutorial"]
+  },
+  {
+    "title": "Flat UI Colors 2 - 280 handpicked colors",
+    "url": "https://flatuicolors.com/",
+    "tags": ["color", "generator", "uiux"]
+  },
+  {
+    "title": "flexbox.help",
+    "url": "https://flexbox.help/",
+    "tags": ["css", "flexbox", "layout", "generator"]
+  },
+  {
+    "title": "Font combinations: fonts that go together",
+    "url": "https://youtu.be/w2TqSuh3gTI",
+    "tags": ["fonts", "graphic", "video"]
+  },
+  {
+    "title": "Fonts in Use",
+    "url": "https://fontsinuse.com/",
+    "tags": ["fonts", "inspiration"]
+  },
+  {
+    "title": "FreeCodeCamp",
+    "url": "https://www.freecodecamp.org/",
+    "tags": ["cpp", "guide", "javascript", "tutorial"]
+  },
+  {
+    "title": "FreeCodeCamp Podcast",
+    "url": "https://freecodecamp.libsyn.com/",
+    "tags": ["podcast"]
+  },
+  {
+    "title": "FreePhotos.cc",
+    "url": "https://freephotos.cc/",
+    "tags": ["design", "download", "stock", "graphic"]
+  },
+  {
+    "title": "Front End Mentor",
+    "url": "https://www.frontendmentor.io/",
+    "tags": ["frontend", "javascript", "tutorial"]
+  },
+  {
+    "title": "Functional Components vs. Stateless Functional Components vs. Stateless Components",
+    "url": "https://tylermcginnis.com/functional-components-vs-stateless-functional-components-vs-stateless-components/",
+    "tags": ["javascript", "react"]
+  },
+  {
+    "title": "Gaffer On Games - Networking",
+    "url": "https://gafferongames.com/tags/networking/",
+    "tags": ["games", "guide", "tutorial"]
+  },
+  {
+    "title": "Gamedev Tutorial: Trigonometry Basics – Sine & Cosine",
+    "url": "http://allenchou.net/2019/08/trigonometry-basics-sine-cosine/",
+    "tags": ["games", "guide", "tutorial"]
+  },
+  {
+    "title": "Generate multi-resolution images for srcset with Grunt",
+    "url": "https://addyosmani.com/blog/generate-multi-resolution-images-for-srcset-with-grunt/",
+    "tags": ["grunt"]
+  },
+  {
+    "title": "Git For Ages 4 And Up",
+    "url": "https://www.youtube.com/watch?v=1ffBJ4sVUb4&feature=youtu.be",
+    "tags": ["git", "tutorial", "video"]
+  },
+  {
+    "title": ".gitignore",
+    "url": "https://gitignore.io/",
+    "tags": ["generator", "git"]
+  },
+  {
+    "title": "gitmoji",
+    "url": "https://gitmoji.carloscuesta.me/",
+    "tags": ["directory", "git"]
+  },
+  {
+    "title": "Git Reset",
+    "url": "https://gitreset.com",
+    "tags": ["git", "podcast"]
+  },
+  {
+    "title": "Gradient Magic",
+    "url": "https://www.gradientmagic.com/",
+    "tags": ["color", "css", "generator"]
+  },
+  {
+    "title": "GraphicsGale",
+    "url": "https://graphicsgale.com/us/",
+    "tags": ["download", "games", "pixelart", "graphic", "graphic", "tool"]
+  },
+  {
+    "title": "GRID",
+    "url": "http://grid.malven.co/",
+    "tags": ["css", "grid", "layout", "generator"]
+  },
+  {
+    "title": "Grunt for People Who Think Things Like Grunt are Weird and Hard",
+    "url": "https://24ways.org/2013/grunt-is-not-weird-and-hard",
+    "tags": ["grunt", "guide"]
+  },
+  {
+    "title": "Heroku Podcast",
+    "url": "https://www.heroku.com/podcasts/codeish",
+    "tags": ["backend", "podcast"]
+  },
+  {
+    "title": "Hero Patterns",
+    "url": "http://www.heropatterns.com/",
+    "tags": ["stock", "svg"]
+  },
+  {
+    "title": "Hexagonal Grids",
+    "url": "https://www.redblobgames.com/grids/hexagons/",
+    "tags": ["games", "guide", "style", "tutorial"]
+  },
+  {
+    "title": "How (and why!) to keep your Git commit history clea",
+    "url": "https://about.gitlab.com/blog/2018/06/07/keeping-git-commit-history-clean/",
+    "tags": ["git", "guide", "tutorial"]
+  },
+  {
+    "title": "How To Build An App: Everything You Didn't Know You Needed To Know",
+    "url": "https://www.youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5",
+    "tags": ["guide", "tutorial", "video"]
+  },
+  {
+    "title": "How to create pure CSS illustrations and animate them",
+    "url": "https://dev.to/agathacco/how-to-create-pure-css-illustrations-and-animate-them---part-1-1j1k",
+    "tags": ["animation", "css", "guide", "tutorial"]
+  },
+  {
+    "title": "How to customize service workers with create-react-app",
+    "url": "https://www.freecodecamp.org/news/how-to-customize-service-workers-with-create-react-app-4424dda6210c/",
+    "tags": ["guide", "javascript", "react", "pwa"]
+  },
+  {
+    "title": "How to Describe Projects in a Resume",
+    "url": "https://work.chron.com/describe-projects-resume-3241.html",
+    "tags": ["job", "resume"]
+  },
+  {
+    "title": "How to Design Tables",
+    "url": "https://twitter.com/steveschoger/status/913062604540653568",
+    "tags": ["a11y", "app", "design", "uiux", "uiux"]
+  },
+  {
+    "title": "How TO - Fullscreen Video",
+    "url": "https://www.w3schools.com/howto/howto_css_fullscreen_video.asp",
+    "tags": ["design", "generator", "tutorial", "uiux", "uiux", "video"]
+  },
+  {
+    "title": "How to Implement Idle Timeout in React",
+    "url": "https://blog.bitsrc.io/how-to-implement-idle-timeout-in-react-830d21c32942",
+    "tags": ["frontend", "react"]
+  },
+  {
+    "title": "How to list accomplishments on your resume when your job doesn’t have easy measures",
+    "url": "https://www.askamanager.org/2013/06/how-to-list-accomplishments-on-your-resume-when-your-job-doesnt-have-easy-measures.html",
+    "tags": ["job", "resume"]
+  },
+  {
+    "title": "How to manage HTML DOM with vanilla JavaScript only?",
+    "url": "https://htmldom.dev/",
+    "tags": ["framework", "html", "javascript"]
+  },
+  {
+    "title": "How to Quantify Your Resume Bullets (When You Don't Work With Numbers)",
+    "url": "https://www.themuse.com/advice/how-to-quantify-your-resume-bullets-when-you-dont-work-with-numbers",
+    "tags": ["job", "resume"]
+  },
+  {
+    "title": "How to Use Video Background On Your Website – The Right Way!",
+    "url": "https://www.websitebuilderexpert.com/designing-websites/video-background-for-websites/",
+    "tags": ["design", "generator", "tutorial", "uiux", "uiux", "video"]
+  },
+  {
+    "title": "How to Write an ‘About Me’ Page That Gets You Hired",
+    "url": "https://99u.adobe.com/articles/51669/how-to-write-about-me-section",
+    "tags": ["job", "resume"]
+  },
+  {
+    "title": "HTML can do that? ",
+    "url": "https://dev.to/ananyaneogi/html-can-do-that-c0n",
+    "tags": ["guide", "html"]
+  },
+  {
+    "title": "HTML Head",
+    "url": "https://htmlhead.dev/",
+    "tags": ["guide", "html"]
+  },
+  {
+    "title": "Humans",
+    "url": "https://humans.fyi/",
+    "tags": ["blog", "design", "inspiration"]
+  },
+  {
+    "title": "Iconify",
+    "url": "https://iconify.design/icon-sets/",
+    "tags": ["directory", "download", "graphic"]
+  },
+  {
+    "title": "I Love Typography",
+    "url": "https://ilovetypography.com/",
+    "tags": ["blog", "fonts", "inspiration"]
+  },
+  {
+    "title": "ImageOptim",
+    "url": "https://imageoptim.com/",
+    "tags": ["graphic", "tool"]
+  },
+  {
+    "title": "Interneting Is Hard",
+    "url": "https://www.internetingishard.com/",
+    "tags": ["css", "flexbox", "layout"]
+  },
+  {
+    "title": "I Shot You First: Networking the Gameplay of HALO: REACH",
+    "url": "https://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking",
+    "tags": ["games", "guide", "tutorial", "video"]
+  },
+  {
+    "title": "JavaScript Air",
+    "url": "https://javascriptair.com/",
+    "tags": ["javascript", "podcast"]
+  },
+  {
+    "title": "JavaScript Event Keycodes",
+    "url": "http://keycode.info/",
+    "tags": ["generator", "javascript"]
+  },
+  {
+    "title": "JavaScript Glossary",
+    "url": "https://www.codecademy.com/articles/glossary-javascript",
+    "tags": ["directory", "guide", "javascript"]
+  },
+  {
+    "title": "JSFiddle",
+    "url": "https://jsfiddle.net/",
+    "tags": ["sandbox", "hub"]
+  },
+  {
+    "title": "Lab: Caching Files with Service Worker",
+    "url": "https://developers.google.com/web/ilt/pwa/lab-caching-files-with-service-worker",
+    "tags": ["guide", "javascript", "pwa"]
+  },
+  {
+    "title": "Largest API Directory on the Web",
+    "url": "https://www.programmableweb.com/apis/directory",
+    "tags": ["api", "directory"]
+  },
+  {
+    "title": "Latency Compensating Methods in Client/Server In-game Protocol Design and Optimization",
+    "url": "https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization",
+    "tags": ["games", "guide", "tutorial"]
+  },
+  {
+    "title": "Library Genesis",
+    "url": "http://gen.lib.rus.ec/",
+    "tags": ["books", "download"]
+  },
+  {
+    "title": "lol colors",
+    "url": "https://www.webdesignrankings.com/resources/lolcolors/",
+    "tags": ["color", "generator"]
+  },
+  {
+    "title": "Made a tutorial that explains how real time parallax placement can be done to make making 2.5D parallaxes in games faster",
+    "url": "https://www.reddit.com/r/gamedev/comments/autarq/made_a_tutorial_that_explains_how_real_time/",
+    "tags": ["games", "reddit", "video"]
+  },
+  {
+    "title": "Make some waves!",
+    "url": "https://getwaves.io/",
+    "tags": ["css", "generator"]
+  },
+  {
+    "title": "MARKDOWNSYNTAX",
+    "url": "https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf",
+    "tags": ["cheatsheet", "guide", "markdown", "style"]
+  },
+  {
+    "title": "Material Design",
+    "url": "https://material.io/design/environment/light-shadows.html#",
+    "tags": ["design", "material", "uiux", "uiux"]
+  },
+  {
+    "title": "MDN ARIA",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
+    "tags": ["compliance", "a11y", "html", "css"]
+  },
+  {
+    "title": "MDN - CSS: Cascading Style Sheets",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "tags": ["css", "guide", "style"]
+  },
+  {
+    "title": "MDN - HTML: Hypertext Markup Language",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "tags": ["guide", "html"]
+  },
+  {
+    "title": "MDN - JavaScript",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "tags": ["guide", "javascript"]
+  },
+  {
+    "title": "Modernising legacy web app",
+    "url": "https://tech.goibibo.com/modernising-legacy-web-app-51ba952e7630",
+    "tags": ["guide", "javascript", "react"]
+  },
+  {
+    "title": "Muzli Color Palette Generator",
+    "url": "https://colors.muz.li/",
+    "tags": ["color", "generator"]
+  },
+  {
+    "title": "My Color Space - Just Enter a Color!",
+    "url": "https://mycolor.space/",
+    "tags": ["color", "generator"]
+  },
+  {
+    "title": "Network Programming in Age of Empires and Beyond",
+    "url": "https://www.gamasutra.com/view/feature/3094/1500_archers_on_a_288_network_.php",
+    "tags": ["games", "guide", "tutorial"]
+  },
+  {
+    "title": "Nginx",
+    "url": "https://www.digitalocean.com/community/tools/nginx",
+    "tags": ["backend", "nginx", "homelab"]
+  },
+  {
+    "title": "Notes on ECMAScript 6 (ES6) ",
+    "url": "https://dev.to/hardy613/notes-on-ecmascript-6-es6-267l",
+    "tags": ["guide", "javascript"]
+  },
+  {
+    "title": "Oh Shit, Git!?!",
+    "url": "https://ohshitgit.com/",
+    "tags": ["git", "guide", "tutorial"]
+  },
+  {
+    "title": "OverAPI",
+    "url": "http://overapi.com/",
+    "tags": ["api", "cheatsheet"]
+  },
+  {
+    "title": "PaperJS",
+    "url": "http://paperjs.org/features/",
+    "tags": ["animation", "framework", "generator", "javascript"]
+  },
+  {
+    "title": "Paste to Markdown",
+    "url": "https://euangoddard.github.io/clipboard2markdown/",
+    "tags": ["generator", "markdown"]
+  },
+  {
+    "title": "Peer/server discovery",
+    "url": "https://code.google.com/archive/p/lidgren-network-gen3/wikis/Discovery.wiki",
+    "tags": ["games", "guide", "tutorial"]
+  },
+  {
+    "title": "Pexels",
+    "url": "https://www.pexels.com/",
+    "tags": ["design", "download", "stock", "graphic"]
+  },
+  {
+    "title": "Phaser",
+    "url": "https://phaser.io/",
+    "tags": ["framework", "games", "javascript", "phaser"]
+  },
+  {
+    "title": "Picular - Google, but for colors.",
+    "url": "https://picular.co/",
+    "tags": ["color", "generator"]
+  },
+  {
+    "title": "Pigment",
+    "url": "https://pigment.shapefactory.co/",
+    "tags": ["color", "generator"]
+  },
+  {
+    "title": "Pixabay",
+    "url": "https://pixabay.com/",
+    "tags": ["design", "download", "stock", "graphic"]
+  },
+  {
+    "title": "Pixel accurate collision detection with Javascript and Canvas",
+    "url": "https://benjaminhorn.io/code/pixel-accurate-collision-detection-with-javascript-and-canvas",
+    "tags": ["games", "guide", "pixelart", "graphic", "tutorial"]
+  },
+  {
+    "title": "Pure CSS Material Design Form",
+    "url": "https://codepen.io/uzielweb/pen/vyXqpx",
+    "tags": ["css", "design", "material", "uiux", "uiux"]
+  },
+  {
+    "title": "React",
+    "url": "https://reactjs.org/",
+    "tags": ["framework", "javascript", "react"]
+  },
+  {
+    "title": "React Animated",
+    "url": "https://reactnative.dev/docs/animated.html",
+    "tags": ["animation", "css", "framework", "react"]
+  },
+  {
+    "title": "React Cheatsheet",
+    "url": "https://reactjs.org/docs/thinking-in-react.html",
+    "tags": ["cheatsheet", "guide", "javascript", "react"]
+  },
+  {
+    "title": "React Native",
+    "url": "https://reactnative.dev/docs/getting-started",
+    "tags": ["app", "javascript", "react"]
+  },
+  {
+    "title": "react-sprint",
+    "url": "https://www.react-spring.io/",
+    "tags": ["animation", "css", "framework", "react"]
+  },
+  {
+    "title": "Removing Headaches from Focus Management",
+    "url": "https://developers.google.com/web/updates/2016/03/focus-start-point?hl=en",
+    "tags": ["compliance", "a11y", "html", "css"]
+  },
+  {
+    "title": "Roll Your Own Comment System for a Static Site",
+    "url": "https://www.taniarascia.com/add-comments-to-static-site/",
+    "tags": ["framework", "tutorial"]
+  },
+  {
+    "title": "SaaS landing page examples",
+    "url": "https://saaslandingpage.com/",
+    "tags": ["blog", "design", "inspiration", "uiux", "uiux"]
+  },
+  {
+    "title": "Scroll Back: The Theory and Practice of Cameras in Side-Scrollers",
+    "url": "https://gamasutra.com/blogs/ItayKeren/20150511/243083/Scroll_Back_The_Theory_and_Practice_of_Cameras_in_SideScrollers.php",
+    "tags": ["games", "guide"]
+  },
+  {
+    "title": "Scroll Magic",
+    "url": "http://scrollmagic.io/",
+    "tags": ["animation", "css"]
+  },
+  {
+    "title": "Searching and sorting text with diacritical marks in JavaScript",
+    "url": "https://thread.engineering/2018-08-29-searching-and-sorting-text-with-diacritical-marks-in-javascript/",
+    "tags": ["guide", "i18n", "javascript", "tutorial"]
+  },
+  {
+    "title": "Service Workers: an Introduction",
+    "url": "https://developers.google.com/web/fundamentals/primers/service-workers",
+    "tags": ["guide", "javascript", "pwa"]
+  },
+  {
+    "title": "set up a self-booting node.js server on a raspberry pi 3 using pm2, nginx, dataplicity, and your mac",
+    "url": "https://medium.com/@andrew.nease.code/set-up-a-self-booting-node-js-eb56ebd05549",
+    "tags": ["backend", "nginx", "node", "homelab", "homelab", "homelab"]
+  },
+  {
+    "title": "Simple Icons",
+    "url": "https://simpleicons.org/",
+    "tags": ["directory", "download", "graphic"]
+  },
+  {
+    "title": "SoloLearn",
+    "url": "https://www.sololearn.com/",
+    "tags": ["cpp", "guide", "tutorial"]
+  },
+  {
+    "title": "Source Multiplayer Networking",
+    "url": "https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking",
+    "tags": ["games", "guide", "tutorial"]
+  },
+  {
+    "title": "Stop cherry-picking, start merging: Index",
+    "url": "https://devblogs.microsoft.com/oldnewthing/?p=98325",
+    "tags": ["git", "guide"]
+  },
+  {
+    "title": "Stylie",
+    "url": "https://jeremyckahn.github.io/stylie/",
+    "tags": ["animation", "css", "generator"]
+  },
+  {
+    "title": "Swipe Recreated",
+    "url": "https://gfycat.com/bothacademickangaroo-game-development-hearthstone-vfx",
+    "tags": ["animation", "games", "tutorial", "video"]
+  },
+  {
+    "title": "SynTax Podcast",
+    "url": "https://syntax.fm/",
+    "tags": ["javascript", "podcast"]
+  },
+  {
+    "title": "The 12 Principles of UX in Motion",
+    "url": "https://imgur.com/z4ckV9j",
+    "tags": ["animation"]
+  },
+  {
+    "title": "The Complete Illustrated Flexbox Tutorial",
+    "url": "https://www.freecodecamp.org/news/the-complete-illustrated-flexbox-tutorial-d35c085dbf35/",
+    "tags": ["css", "flexbox", "layout"]
+  },
+  {
+    "title": "The Noun project",
+    "url": "https://thenounproject.com/",
+    "tags": ["directory", "download", "graphic"]
+  },
+  {
+    "title": " The Twelve-Factor App",
+    "url": "https://12factor.net/",
+    "tags": ["guide", "javascript", "style"]
+  },
+  {
+    "title": "The Ultimate Web Code Generator",
+    "url": "https://webcode.tools/",
+    "tags": ["css", "generator", "html"]
+  },
+  {
+    "title": "Thinking in React",
+    "url": "https://reactjs.org/docs/thinking-in-react.html",
+    "tags": ["guide", "javascript", "react"]
+  },
+  {
+    "title": "ThreeJS",
+    "url": "https://threejs.org/",
+    "tags": ["animation", "javascript"]
+  },
+  {
+    "title": "Top 12 UX Trends for Mobile Apps",
+    "url": "https://medium.com/uxreality-blog/top-12-ux-trends-for-mobile-apps-11768370e50",
+    "tags": ["app", "design", "uiux"]
+  },
+  {
+    "title": "tota11y - accessibility visualization toolkit ",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA",
+    "tags": ["compliance", "a11y", "html", "css"]
+  },
+  {
+    "title": "Tutorial: Intro to React",
+    "url": "https://reactjs.org/docs/thinking-in-react.html",
+    "tags": ["guide", "javascript", "react"]
+  },
+  {
+    "title": "Udacity Career Portal",
+    "url": "https://classroom.udacity.com/career/main",
+    "tags": ["interview", "job", "resume"]
+  },
+  {
+    "title": "Udacity Frontend Nanodegree CSS Style Guide",
+    "url": "https://udacity.github.io/frontend-nanodegree-styleguide/css.html",
+    "tags": ["css", "guide", "style"]
+  },
+  {
+    "title": "Udacity Frontend Nanodegree HTML Style Guide",
+    "url": "https://udacity.github.io/frontend-nanodegree-styleguide/index.html",
+    "tags": ["html", "style"]
+  },
+  {
+    "title": "Udacity Frontend Nanodegree JavaScript Style Guide",
+    "url": "https://udacity.github.io/frontend-nanodegree-styleguide/javascript.html",
+    "tags": ["guide", "javascript", "style"]
+  },
+  {
+    "title": "Udacity Git Commit Message Style Guide",
+    "url": "https://udacity.github.io/git-styleguide/",
+    "tags": ["git", "guide", "style"]
+  },
+  {
+    "title": "Udacity's README Style Guide",
+    "url": "https://github.com/udacity/ud777-writing-readmes",
+    "tags": ["guide", "markdown", "style"]
+  },
+  {
+    "title": "UI Bot Generated Interfaces",
+    "url": "https://www.uibot.app/",
+    "tags": ["design", "generator", "uiux", "uiux"]
+  },
+  {
+    "title": "Understanding client side routing by implementing a router in Vanilla JS",
+    "url": "http://willtaylor.blog/client-side-routing-in-vanilla-js/",
+    "tags": ["framework", "javascript", "tutorial"]
+  },
+  {
+    "title": "unDraw",
+    "url": "https://undraw.co/",
+    "tags": ["graphic", "stock", "svg"]
+  },
+  {
+    "title": " Unreal Networking Architecture ",
+    "url": "https://docs.unrealengine.com/udk/Three/NetworkingOverview.html",
+    "tags": ["games", "guide", "tutorial"]
+  },
+  {
+    "title": "Unsplash",
+    "url": "https://unsplash.com/",
+    "tags": ["design", "download", "stock", "graphic"]
+  },
+  {
+    "title": "User Interface Design Basics",
+    "url": "https://www.usability.gov/what-and-why/user-interface-design.html",
+    "tags": ["a11y", "app", "design", "uiux", "uiux"]
+  },
+  {
+    "title": "Using a vertex shader, trees are pushable by the tanks and are affected by projectiles and nearby explosions. Here's how we do it! (Posted to r/picotanks and r/unity3d but thought devs here would be interested too)",
+    "url": "https://www.reddit.com/r/gamedev/comments/apo7vw/using_a_vertex_shader_trees_are_pushable_by_the/?sort=top",
+    "tags": ["games", "reddit", "tutorial", "video"]
+  },
+  {
+    "title": "Using Backblaze B2 and Cloudflare Workers for free image hosting",
+    "url": "https://jross.me/free-personal-image-hosting-with-backblaze-b2-and-cloudflare-workers/",
+    "tags": ["backend"]
+  },
+  {
+    "title": "UXPRO",
+    "url": "https://uxpro.cc/",
+    "tags": ["blog", "inspiration", "uiux", "uiux"]
+  },
+  {
+    "title": "VSCode Cheatsheet for OSX",
+    "url": "https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf",
+    "tags": ["cheatsheet", "vscode"]
+  },
+  {
+    "title": "VSCode Cheatsheet for Windows",
+    "url": "https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf",
+    "tags": ["cheatsheet", "vscode"]
+  },
+  {
+    "title": "Vue.JS",
+    "url": "https://vuejs.org/",
+    "tags": ["framework", "javascript", "vue"]
+  },
+  {
+    "title": "W3C - Web Content Accessibility Guidelines (WCAG) 2.0",
+    "url": "https://www.w3.org/TR/WCAG20/",
+    "tags": ["compliance", "a11y", "html", "css"]
+  },
+  {
+    "title": "w3schools - CSS Flexbox",
+    "url": "https://www.w3schools.com/css/css3_flexbox.asp",
+    "tags": ["css", "flexbox", "layout"]
+  },
+  {
+    "title": "WebAIM's WCAG 2 Checklist",
+    "url": "https://webaim.org/standards/wcag/checklist",
+    "tags": ["compliance", "a11y", "html", "css"]
+  },
+  {
+    "title": "Website color schemes: The palettes of 50 visually impactful websites to inspire you ",
+    "url": "https://www.canva.com/learn/website-color-schemes/",
+    "tags": ["color", "guide"]
+  },
+  {
+    "title": "Wes Bos",
+    "url": "https://courses.wesbos.com/account",
+    "tags": [
+      "css",
+      "flexbox",
+      "framework",
+      "guide",
+      "javascript",
+      "markdown",
+      "react",
+      "redux",
+      "tutorial"
+    ]
+  },
+  {
+    "title": "What Every Programmer Needs To Know About Game Networking",
+    "url": "https://gafferongames.com/post/what_every_programmer_needs_to_know_about_game_networking/",
+    "tags": ["games", "guide", "tutorial"]
+  },
+  {
+    "title": "Where to put buttons on forms",
+    "url": "https://adamsilver.io/articles/where-to-put-buttons-on-forms/",
+    "tags": ["a11y", "app", "design", "guide", "uiux", "uiux"]
+  },
+  {
+    "title": "Why You Shouldn’t Use Solid or Underlined Text Fields",
+    "url": "https://uxmovement.com/forms/why-you-shouldnt-use-solid-or-underlined-text-fields/",
+    "tags": ["a11y", "design", "uiux", "uiux"]
+  },
+  {
+    "title": "Writing MarkDown on GitHub",
+    "url": "https://help.github.com/en/github/writing-on-github",
+    "tags": ["guide", "markdown", "style"]
+  },
+  {
+    "title": "Z-Dog",
+    "url": "https://zzz.dog/extras",
+    "tags": ["animation", "framework", "games", "generator", "javascript"]
+  }
+]

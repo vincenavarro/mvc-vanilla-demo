@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css?family=Sen:400,700&display=swap')
+
+$text: #111
+$hyper: #b53e58
+$base: ghostwhite
+$base-highlight: lighten($base, 40%)
+$midtone: #CCC
+$shadow1: 0 1px 3px rgba( $text ,0.12), 0 1px 2px rgba( $text ,0.24)
+$shadow2: 0 3px 6px rgba( $text ,0.16), 0 3px 6px rgba( $text ,0.23)
+$shadow3: 0 10px 20px rgba( $text ,0.19), 0 6px 6px rgba( $text ,0.23)
+$shadow4: 0 14px 28px rgba( $text ,0.25), 0 10px 10px rgba( $text ,0.22)
+$shadow5: 0 19px 38px rgba( $text ,0.30), 0 15px 12px rgba( $text ,0.22)
+$transition: all 0.3s cubic-bezier(.25,.8,.25,1)
+
+*
+  margin: 0
+  padding: 0
+  border: 0
+  font-size: 100%
+  font: inherit
+  vertical-align: baseline
+
+html
+  scroll-behavior: smooth
+
+body
+  font-family: 'Sen', Helvetica, Arial, sans-serif
+  font-size: 10px
+  color: $text
+  background-color: $base
+  padding-left: calc(100vw - 100%)
+
+h1
+  font-size: 3rem
+  font-weight: 700
+  color: $hyper
+
+button
+  cursor: pointer
+  color: $text
+  background-color: $midtone
+  box-shadow: $shadow1
+  transition: $transition
+  &:hover
+    box-shadow: $shadow2
+  &:active
+    background-color: $hyper
+
+.container
+  text-align: center
+  margin: 3rem auto 1rem auto
+  width: 100%
+  max-width: 800px
+
+.search-container
+  display: flex
+  flex-direction: row
+  justify-content: center
+  margin: 0.5rem auto
+  .search
+    width: 50%
+    max-width: 600px
+    height: 2rem
+    color: $text
+    text-align: center
+    border: 2px solid $midtone
+    font-size: 1.5rem
+    padding: 0.2rem 1.5rem
+    background-color: $base-highlight
+    &.loading
+      background: $base-highlight url(../../public/loading.svg) no-repeat scroll 95% 50%;
+      background-size: 2rem 2rem;
+    &[value=""]
+      color: $midtone
+  button
+    margin-left: 0.5rem
+    font-size: 1.5rem
+
+.cloud
+  font-size: 0.9rem
+  margin-bottom: 2rem
+  display: flex
+  flex-direction: row
+  flex-wrap: wrap
+  justify-content: space-between
+  align-items: stretch
+  align-content: stretch
+  &::after
+    content: ''
+    flex: auto
+  button.tag
+    display: block
+    background-color: $midtone
+    margin: 0.2rem
+    padding: 0.1rem 0.3rem
+    outline: none
+
+.results
+  margin: 0 auto
+  transition: $transition
+  opacity: 1
+  p
+    font-size: 1rem
+  &.loading
+    opacity: 0
+  .result
+    display: block
+    color: $text
+    margin: 1rem auto
+    text-align: left
+    overflow: hidden
+    > *
+      display: block
+      margin: 0.3rem auto
+      white-space: nowrap
+      overflow: hidden
+      text-overflow: ellipsis
+    a,
+    a:link,
+    a:visited
+      color: $hyper
+      font-size: 1.3rem
+      font-weight: 700
+      &:hover
+        color: adjust-hue( $hyper, 50%)
+    p
+      font-size: 0.9rem
+      &:last-child
+        color: lighten($text, 30%)
+        &::before
+          content: 'Tags: '
+
+.modal
+  visibility: hidden
+  position: fixed
+  z-index: 1000
+  background-color: rgba($base, 0.75)
+  top: 0
+  left: 0
+  bottom: 0
+  right: 0
+  div
+    width: 80%
+    max-width: 600px
+    position: absolute
+    text-align: center
+    top: 50%
+    left: 50%
+    transform: translate(-50%, -50%)
+    padding: 2em
+    background: $base
+    box-shadow: $shadow5
+    h2
+      font-size: 2rem
+      font-weight: 700
+    p
+      font-size: 0.9rem
+    input
+      display: block
+      width: 90%
+      height: 1.5rem
+      color: $text
+      background-color: $midtone
+      border: 2px solid $midtone
+      font-size: 1rem
+      padding: 0.1rem 1rem
+      margin: 1rem auto
+      &[value=""]
+        color: $midtone
+    button
+      display: inline-block
+      margin: 0 1rem
+      font-size: 1rem
+      padding: 0.5rem
+      &[name="submit"]
+
+      &[name="export"]
+
+      &[name="close"]
