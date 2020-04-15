@@ -4,8 +4,8 @@ import SearchBox from './components/SearchBox';
 import TagCloud from './components/TagCloud';
 import Results from './components/Results';
 import ToolsModal from './components/ToolsModal';
-import DB from './json/links.json';
-import './styles/styles.sass';
+import DB from '../json/links.json';
+import '../styles/styles.sass';
 
 class View {
 	constructor(controller) {

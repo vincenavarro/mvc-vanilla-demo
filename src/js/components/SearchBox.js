@@ -1,4 +1,4 @@
-import Debouncer from './util/Debouncer';
+import Debouncer from '../util/Debouncer';
 
 class SearchBox {
 	constructor(controller, input) {
