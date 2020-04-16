@@ -120,11 +120,6 @@
     "tags": ["backend", "css", "framework", "javascript", "node", "tool"]
   },
   {
-    "title": "CodeKit",
-    "url": "https://vscode",
-    "tags": ["css", "html", "javascript", "tool"]
-  },
-  {
     "title": "CodeNewbie Podcast",
     "url": "https://www.codenewbie.org/podcast",
     "tags": ["javascript", "podcast"]
@@ -433,6 +428,11 @@
     "title": "How To Build An App: Everything You Didn't Know You Needed To Know",
     "url": "https://www.youtube.com/playlist?list=PL96C35uN7xGJu6skU4TBYrIWxggkZBrF5",
     "tags": ["guide", "tutorial", "video"]
+  },
+  {
+    "title": "How to configure Webpack 4 from scratch",
+    "url": "https://dev.to/pixelgoo/how-to-configure-webpack-from-scratch-for-a-basic-website-46a5",
+    "tags": ["tutorial", "webpack"]
   },
   {
     "title": "How to create pure CSS illustrations and animate them",
