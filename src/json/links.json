@@ -1000,6 +1000,11 @@
     "tags": ["games", "guide", "tutorial"]
   },
   {
+    "title": "What is MVC?",
+    "url": "https://youtu.be/pCvZtjoRq1I",
+    "tags": ["javascript", "video", "guide"]
+  },
+  {
     "title": "Where to put buttons on forms",
     "url": "https://adamsilver.io/articles/where-to-put-buttons-on-forms/",
     "tags": ["a11y", "app", "design", "guide", "uiux", "uiux"]

@@ -63,6 +63,7 @@ module.exports = {
 						loader: 'file-loader',
 						options: {
 							name: '[hash].[ext]',
+							esModule: false,
 						},
 					},
 				],
