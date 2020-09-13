@@ -5,6 +5,11 @@
     "tags": ["job", "interview"]
   },
   {
+    "title": "Accessibility Developer Guide",
+    "url": "https://www.accessibility-developer-guide.com/",
+    "tags": ["a11y"]
+  },
+  {
     "title": "Accessibility Guidebook for Web Development",
     "url": "https://www.telerik.com/blogs/web-accessibility-guidebook-for-developers",
     "tags": ["compliance", "a11y", "html", "css"]
@@ -405,6 +410,11 @@
     "tags": ["grunt", "guide"]
   },
   {
+    "title": "Hero Icons",
+    "url": "https://heroicons.com/",
+    "tags": ["stock", "svg"]
+  },
+  {
     "title": "Heroku Podcast",
     "url": "https://www.heroku.com/podcasts/codeish",
     "tags": ["backend", "podcast"]
@@ -655,6 +665,11 @@
     "tags": ["git", "guide", "tutorial"]
   },
   {
+    "title": "On undoing, fixing, or removing commits in git",
+    "url": "https://sethrobertson.github.io/GitFixUm/fixup.html",
+    "tags": ["git", "guide"]
+  },
+  {
     "title": "OverAPI",
     "url": "http://overapi.com/",
     "tags": ["api", "cheatsheet"]
@@ -815,6 +830,11 @@
     "tags": ["javascript", "podcast"]
   },
   {
+    "title": "Tech Jr Podcast",
+    "url": "https://techjr.dev/",
+    "tags": ["javascript", "jobs", "podcast"]
+  },
+  {
     "title": "The 12 Principles of UX in Motion",
     "url": "https://imgur.com/z4ckV9j",
     "tags": ["animation"]
@@ -968,6 +988,11 @@
     "title": "Ways To Make Sure Your Website is ADA Compliant",
     "url": "https://www.inc.com/carol-sankar/7-ways-to-make-sure-your-website-is-ada-compliant.html",
     "tags": ["a11y", "compliance", "design", "uiux", "uiux"]
+  },
+  {
+    "title": "Web Accessibility by Google Developing with Empathy",
+    "url": "https://www.udacity.com/course/web-accessibility--ud891",
+    "tags": ["a11t"]
   },
   {
     "title": "WebAIM's WCAG 2 Checklist",
