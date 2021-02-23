@@ -340,6 +340,11 @@
     "tags": ["podcast"]
   },
   {
+    "title": "Free Mockup Zone PSD Mockups",
+    "url": "https://freemockupzone.com/",
+    "tags": ["stock", "mockup"]
+  },
+  {
     "title": "FreePhotos.cc",
     "url": "https://freephotos.cc/",
     "tags": ["design", "download", "stock", "graphic"]
@@ -393,6 +398,11 @@
     "title": "Gradient Magic",
     "url": "https://www.gradientmagic.com/",
     "tags": ["color", "css", "generator"]
+  },
+  {
+    "title": "Graphics Burger PSD Mockups",
+    "url": "https://graphicburger.com/mock-ups/",
+    "tags": ["stock", "mockup"]
   },
   {
     "title": "GraphicsGale",
@@ -630,6 +640,11 @@
     "tags": ["guide", "javascript"]
   },
   {
+    "title": "Mockups Tree PSD Mockups",
+    "url": "https://mockups-design.com/",
+    "tags": ["stock", "mockup"]
+  },
+  {
     "title": "Modernising legacy web app",
     "url": "https://tech.goibibo.com/modernising-legacy-web-app-51ba952e7630",
     "tags": ["guide", "javascript", "react"]
@@ -718,6 +733,11 @@
     "title": "Pixel accurate collision detection with Javascript and Canvas",
     "url": "https://benjaminhorn.io/code/pixel-accurate-collision-detection-with-javascript-and-canvas",
     "tags": ["games", "guide", "pixelart", "graphic", "tutorial"]
+  },
+  {
+    "title": "PSD Blast Mockups",
+    "url": "https://psdblast.com/",
+    "tags": ["stock", "mockup"]
   },
   {
     "title": "Pure CSS Material Design Form",
@@ -918,6 +938,11 @@
     "title": "UI Bot Generated Interfaces",
     "url": "https://www.uibot.app/",
     "tags": ["design", "generator", "uiux", "uiux"]
+  },
+  {
+    "title": "Unblast PSD Mockups",
+    "url": "https://unblast.com/",
+    "tags": ["stock", "mockup"]
   },
   {
     "title": "Understanding client side routing by implementing a router in Vanilla JS",
